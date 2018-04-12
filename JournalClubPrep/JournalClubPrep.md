@@ -16,9 +16,9 @@ To prepare for journal club follow the steps:
 1. Make vocabulary list with English word, Chinese word and pinyin
 	* I write these in Markdown and convert to pdf - there is a script for that - use make and the Makefile in the repo
 	* I have written scripts to search through past vocabulary lists for words, allowing me to copy previously used entries rather than look them up again.
-	* I highlight words we have used in the past in italics, the vocabmaps.vim mapping will make this simple.  In vim source vocabmaps 
+	* I highlight words we have used in the past in italics, the vocabmaps.vim mapping will make this simple.  In vim source vocabmaps then ,,it will italicize the line the cursor is on
 1. Print one copy of the article and enough copies of the vocabulary list for all paying participants
 1. Contact docs on morning of journal club to verify that journal club can happen that day.
 	* The hospital frequently calls unexpected meetings that are mandatory, you will never know if journal club will happen on a given day until you check.
 
-Scripts for making vocabulary lists can be found at my github repo: 
+Scripts for making vocabulary lists can be found at my github repo: https://github.com/forbajato/GansuGatewayProcedure
