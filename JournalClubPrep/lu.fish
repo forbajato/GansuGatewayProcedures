@@ -1,0 +1,1 @@
+/home/tom/.config/fish/functions/lu.fish
